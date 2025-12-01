@@ -7,9 +7,9 @@ SystemVerilog 기반의 검증환경을 구축하여 설계한 UART 모듈(DUT)�
 ---
 
 ## ⚙️ 개발 환경
-설계 언어 : Verilog, SystemVerilog
-검증 언어 : SystemVerilog
-시뮬레이션 툴 : Vivado
+- 설계 언어 : Verilog, SystemVerilog
+- 검증 언어 : SystemVerilog
+- 시뮬레이션 툴 : Vivado
 
 ---
 
