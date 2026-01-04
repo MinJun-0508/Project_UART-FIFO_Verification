@@ -1,4 +1,5 @@
-# Project_UART-FIFO_Verification
+## 📄 Documentation
+- [📘 Final Presentation PDF](doc/UART_FIFO_SystemVerilog_Verification.pdf)
 
 ## 프로젝트 목표
 본 프로젝트는 Verilog/SystemVerilog를 이용해 UART통신 기반의 스톱워치 모듈을 설계하고,
