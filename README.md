@@ -54,6 +54,7 @@ SystemVerilog 기반의 검증환경을 구축하여 설계한 UART 모듈(DUT)�
  - 결과 :
 <img width="841" height="798" alt="image" src="https://github.com/user-attachments/assets/ed2e0105-a94e-454f-b718-bd6699dd5ff3" />
 <img width="737" height="542" alt="image" src="https://github.com/user-attachments/assets/d0212de5-51c2-4122-a9ad-672fc9103e98" />
+
  - 분석 : 의도적으로 입력한 3가지의 비정상 케이스에서 Fail이 발생한 것을 Scoreboard가 감지해냈습니다. 이는 검증환경이 예상치 못한 오류를 잡아내고 있음을 의미하여, 동시에 설계된 DUT가 프로토콜 위반 상황에는 대응하지 못함을 알았습니다.
 
 
